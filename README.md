@@ -5,7 +5,9 @@ Aplikas yang akan dibuat adalah aplikasi sederhana yang menghasilkan nama yang d
 Oke langsung saja, berikut langkah-langkah dalam membuat aplikasinya:
 1. Membuat aplikasi baru memnggunakan terminal dengan command "flutter create hello_world"
 2. Membuka file main.dart, menghapus semua isinya dan mengganti dengan kode yang sudah ditentukan
-3. Output dari kode diatas ![image](https://user-images.githubusercontent.com/57280697/139542824-aab72b8e-8a80-4db9-a200-0c332298a5f3.png)
+3. Output dari kode yang sebelumnya ditulis
+![image](https://user-images.githubusercontent.com/57280697/139542824-aab72b8e-8a80-4db9-a200-0c332298a5f3.png)
+4. 
 
 
 ## Getting Started
