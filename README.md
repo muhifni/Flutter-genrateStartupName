@@ -1,4 +1,4 @@
-# hello_world
+# Write Your First Flutter App
 
 Oke, jadi kali ini saya akan belajar membuat aplikasi android menggunakan Flutter dengan mengikuti tutorial ini 
 [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab) dan ini [Write Your First Flutter App, part 2](https://codelabs.developers.google.com/codelabs/first-flutter-app-pt2/)
