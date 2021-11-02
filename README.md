@@ -1,13 +1,11 @@
 # hello_world
 
 Oke, jadi kali ini saya akan belajar membuat aplikasi android menggunakan Flutter dengan mengikuti tutorial ini [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-Dalam tutorial tersebut saya membuat aplikasi sederhana yang menghasilkan nama yang diusulkan untuk perusahaan startup. Pengguna dapat memilih dan membatalkan pilihan nama, menyimpan yang terbaik. Saat pengguna menggulir, lebih banyak nama dihasilkan. Tidak ada batasan seberapa jauh pengguna dapat menggulir. Pada tutorial itu juga saya belajar menambahka package external yang didapatkan dari sini >>>> https://pub.dev/.
-Setelah itu saya membuat Stateful Widget. Stateful widget adalah widget yang bersifat dinamis atau dapat berubah-ubah. Ia dapat mengubah atau mengupdate tampilan, menambah widget laiinya, mengubah nilai variabel, icon, warna dan masih banyak lagi. Menerapkan stateful wodger membutuhkan setidaknya dua class: 
-1) StatefulWidget class yang membuat instance 
-2) State class. 
-StatefulWidget kelas, sendiri, kekal dan dapat dibuang dan regenerasi Statetetap berlangsung kelas selama masa widget.
-
-
+Aplikas yang akan dibuat adalah aplikasi sederhana yang menghasilkan nama yang diusulkan untuk perusahaan startup. Pengguna dapat memilih dan membatalkan pilihan nama, menyimpan yang terbaik. Saat pengguna menggulir, lebih banyak nama dihasilkan. Tidak ada batasan seberapa jauh pengguna dapat menggulir.
+Oke langsung saja, berikut langkah-langkah dalam membuat aplikasinya:
+1. Membuat aplikasi baru memnggunakan terminal dengan command "flutter create hello_world"
+2. Membuka file main.dart, menghapus semua isinya dan mengganti dengan kode yang sudah ditentukan
+3. Output dari kode diatas ![image](https://user-images.githubusercontent.com/57280697/139542824-aab72b8e-8a80-4db9-a200-0c332298a5f3.png)
 
 
 ## Getting Started
